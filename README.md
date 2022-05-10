@@ -1,4 +1,6 @@
-## **Описание проекта YaMDb:**
+![example workflow](https://github.com/AnnSonrisa/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg) 
+
+**Описание проекта YaMDb:**
 
 1) Проект YaMDb собирает отзывы (Review)
 пользователей на произведения (Titles). 
@@ -21,7 +23,7 @@ ____
 # Как запустить проект:
 1) Клонировать репозиторий и перейти в него в командной строке:
 
-`git clone https://github.com/viserdi/api_yamdb`
+`git clone https://github.com/AnnSonrisa/api_yamdb`
 
 2) Cоздать и активировать виртуальное окружение:
 
@@ -41,5 +43,5 @@ ____
 
 ## **Разработчики группового проекта:**
 - Ivashinin Ivan https://github.com/viserdi
-- Britvin Pavel  https://github.com/pashwf https://git
+- Britvin Pavel  https://github.com/pashwf
 - Slonova Anna   https://github.com/AnnSonrisa
